@@ -1,8 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working in BattFlit as Python Developer.<br>💬 Ыtudy at the university on the 3rd year of the bachelor
-
+I'm Python Backend Developer from Vladivosok, Russia
+🔭 I’m currently working in BattFlit as Python Developer.<br>💬 Ыtudy at the university on the 3rd year of the bachelor<br>
+<br>
+Also working on freelance.<br>
+[![Kwork](https://img.shields.io/badge/kwork-green)](https://kwork.ru/user/invoker322sf)
 
 ## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/mazikeensix)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mazikeen#0478) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vladimir-kulkov-93154b21a) 
 
 # 💻 Tech Stack:
