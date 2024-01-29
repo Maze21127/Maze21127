@@ -28,7 +28,7 @@ Also working on freelance.<br>
 - Telegram bot + Web Admin Panel for creating abbreviated links and link groups
 - Telegram bot + Web Admin Panel for group managment
 - Telegram bot for tracking orders and receiving notifications when the status changes for an online store
-- Telegram bot for conducting drawings in a retail chain of stores, with QR code recognition on the receipt.
+- Telegram bot for conducting gifts in a retail chain of stores, with QR code recognition on the receipt.
 - Telegram bot to host costume parties, users get a random operson and information about the venue and time.
 - Python libraly for Gcore and SberCloud API
 - Desktop application for free parking slots
