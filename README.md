@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Python Backend Developer from Vladivosok, Russia.<br>
-🔭 I’m currently working in BattFlit as Python Developer.<br>
-💬 Study at the university on the 3rd year of the bachelor.<br>
+🔭 I’m currently working in DNS Tech as Python Developer.<br>
+💬 Study at the university on the 4rd year of the bachelor.<br>
 <br>
 Also working on freelance.<br>
 [![Kwork](https://img.shields.io/badge/kwork-green)](https://kwork.ru/user/invoker322sf)
