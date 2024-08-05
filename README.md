@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Python Backend Developer from Vladivosok, Russia.<br>
 🔭 Currently working in DNS Tech as Middle Python Developer.<br>
-💬 Study at the university on the 4rd year of the bachelor (IT).<br>
+💬 B.S. in Computer Science with honors<br>
 <br>
 Also working on freelance.<br>
 [![Kwork](https://img.shields.io/badge/kwork-green)](https://kwork.ru/user/invoker322sf)
