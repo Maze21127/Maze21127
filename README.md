@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Python Backend Developer from Vladivosok, Russia.<br>
-🔭 Currently working in DNS Tech as Middle Python Developer.<br>
+🔭 Currently working in DNS Tech as Python Developer.<br>
 💬 B.S. in Computer Science with honors<br>
 <br>
 Also working on freelance.<br>
@@ -44,6 +44,6 @@ Also working on freelance.<br>
 - Telegram bot for tracking orders and receiving notifications when the status changes for an online store
 - Telegram bot for conducting gifts in a retail chain of stores, with QR code recognition on the receipt.
 - Telegram bot to host costume parties, users get a random operson and information about the venue and time.
-- Python lib for Gcore and SberCloud API
+- Python sdk for Gcore and SberCloud API
 - Desktop application for free parking slots
 - Telegram bot for bulk channel reports from few accounts
