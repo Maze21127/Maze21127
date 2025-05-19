@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm Python Backend Developer from Vladivosok, Russia.<br>
-🔭 Currently working in DNS Tech as Python Developer.<br>
+I'm Python Backend Developer from Moscow, Russia.<br>
+🔭 Currently working in Tochka as Python Developer.<br>
 💬 B.S. in Computer Science with honors<br>
 <br>
 
